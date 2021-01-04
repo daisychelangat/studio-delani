@@ -150,3 +150,17 @@ h1 {
     text-align: center;
     font-family: Alegreya;
 }
+/* contact background image */
+
+.contact{
+    background-image: url('../assets/backgrounds/c_image.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Elsie;
+  }
+  .form-cont input {
+    width: 49%;
+    background: transparent;
+    color: white;
+}
