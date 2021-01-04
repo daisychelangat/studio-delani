@@ -27,7 +27,7 @@
   /* whatWeDo */
 
   #whatWeDo{
-    font-family:Belleza
+    font-family:Belleza;
        margin-bottom: 4%;
        cursor: pointer;
        font-size: 30px;
@@ -47,3 +47,58 @@
     h2{
       font-family: Paprika;
     }
+
+  #logo{
+      padding-bottom: 50px;
+  }
+  #mouseClick{
+      padding-top: 200px;
+      padding-bottom: 30px;
+  }
+
+  * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+  }
+  #first {
+      padding-top: 14%;
+      margin-bottom: 9%;
+  }
+  .logo {
+      padding-top: 9%;
+      margin-bottom: 3%;
+  }
+
+  #logo{
+      padding-bottom: 50px;
+  }
+  #mouseClick{
+      padding-top: 200px;
+      padding-bottom: 30px;
+  }
+
+  * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+  }
+  #first {
+      padding-top: 14%;
+      margin-bottom: 9%;
+  }
+  .logo {
+      padding-top: 9%;
+      margin-bottom: 3%;
+  }
+
+  h6 {
+    height: 1vh;
+}
+
+.aboutUs {
+text-align: center;
+color: black;
+font-size: small;
+font-family: Forum;
+}
