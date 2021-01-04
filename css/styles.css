@@ -102,3 +102,17 @@ color: black;
 font-size: small;
 font-family: Forum;
 }
+.col-md-12 {
+    width: 100%;
+    color: #fff;
+    font-family: Imprima;
+    font-size: calc(1vw + 1vh + .5vmin);
+    font-size: 1.1em;
+}
+h1 {
+    font-family: Elsie;
+}
+  .card:hover img {
+    transform: scale(1.2);
+    transition: all 0.3s ease;
+}
