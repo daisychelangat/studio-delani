@@ -17,4 +17,4 @@ HTML- The markdown language used to add content. CSS - Used to style the HTML. B
 Support and contact details
 If you need any clarifications or have feedback on this project , contact the author atdaisyrop2000@gmail.com
 
-LICENSE:  
+LICENSE:  https://github.com/daisychelangat/studio-delani/blob/gh-pages/LICENSE
