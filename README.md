@@ -2,7 +2,7 @@
 {website for DELANI STUDIO}, {02/01/2021}
 By {Daisy Chelangat}
 Description
-{This is a fictional studio I built to aid better my grasp of various concepts in Bootstrap,css,Javascript } Live link 
+{This is a fictional studio I built to aid better my grasp of various concepts in Bootstrap,css,Javascript } Live link https://daisychelangat.github.io/studio-delani/
 
 
 
@@ -16,3 +16,5 @@ HTML- The markdown language used to add content. CSS - Used to style the HTML. B
 
 Support and contact details
 If you need any clarifications or have feedback on this project , contact the author atdaisyrop2000@gmail.com
+
+LICENSE:  
